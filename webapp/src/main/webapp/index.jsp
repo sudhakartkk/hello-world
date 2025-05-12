@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter your Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter your mobile number Updated</b></label>
+    <label for="mobile"><b>Enter your mobile number Docker FInal</b></label>
     <input type="text" placeholder="Enter your moible numbers" name="mobile" id="mobile" required>
     <br>
 
